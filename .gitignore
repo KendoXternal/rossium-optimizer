@@ -1,0 +1,5 @@
+RossiumOptimizer.exe
+*.exe
+*.py
+*.pem
+.env*
