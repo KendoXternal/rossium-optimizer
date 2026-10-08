@@ -92,4 +92,3 @@ Cada versión también aparece en [Releases](../../releases) con su ejecutable y
 - El HWID se genera a partir de hashes SHA-256 de cinco componentes y tolera un cambio de componente cuando hay suficientes lecturas disponibles.
 - El token se cifra con DPAPI en `%APPDATA%\Rossium\license.dat`.
 - Se incorporaron consulta online periódica y gracia offline limitada a 72 horas.
-
