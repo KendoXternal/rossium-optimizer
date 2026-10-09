@@ -2,6 +2,20 @@
 
 Cada versión también aparece en [Releases](../../releases) con su ejecutable y su huella SHA-256.
 
+## v15.0.0
+
+- Optimizar en 1 clic (Inicio): mide tu PC, analiza con la Guía para tu objetivo y aplica solo lo recomendado con punto de restauración y modo «probar». Una pantalla «Optimizando…» muestra cada cambio y al final el resumen con tu % antes → después.
+- Soluciones rápidas: eliges «Mi PC va lento», «Tengo lag», «Mi juego se traba» o «No tengo Internet» y ROSSIUM revisa RAM, CPU, inicio, discos, energía, driver, ping, Wi-Fi, descargas de Windows, DNS y latencia de controladores. Cada problema trae su botón para arreglarlo.
+- Resultados reales: mide «antes» y «después» (procesos, RAM, programas de inicio, servicios, tiempo de arranque de Windows y ping) y compara con flechas y porcentajes. Imagen para compartir en Discord. Nada estimado.
+- Modo Juego Turbo: libera la RAM de los programas en segundo plano (nunca de los juegos), plan de alto rendimiento, pausa las descargas de Windows y cierra los programas que elijas. Al desactivarlo (o si ROSSIUM se cierra) todo vuelve a como estaba.
+- Detector de tirones (Pruebas): mide durante unos segundos la latencia de controladores (DPC e interrupciones) y te dice si algún driver está causando tirones, con consejos.
+- DNS más rápido (Red): prueba Cloudflare, Google, Quad9 y AdGuard desde tu conexión y aplica el más rápido con un botón.
+- Limpieza inteligente: cachés de NVIDIA, AMD, Discord, Steam y Epic, y buscador de archivos grandes y duplicados (solo muestra; tú decides qué borrar).
+- Ajustes de GPU por marca (Centro de juegos): consejos para NVIDIA, AMD o Intel, abrir su panel y forzar la GPU de alto rendimiento para cada juego (reversible).
+- Avisos automáticos: disco casi lleno, disco con errores, RAM al límite, un programa gastando CPU en segundo plano o driver de gráficos antiguo. Cada aviso trae su arreglo y no se repite en 12 horas (se puede apagar en Ajustes).
+- Mini monitor: ventana pequeña siempre encima con CPU, GPU, RAM, ping y gráfica, para tenerla mientras juegas. Se arrastra y recuerda su sitio.
+- Diseño: indicador animado en la barra lateral, brillo en las tarjetas al pasar el ratón y gráfica en vivo de la GPU en Inicio.
+
 ## v14.0.0
 
 - Key gratis de 24 horas y renovable: cuando vence, pulsa «Renovar 24 h» al abrir ROSSIUM o en la barra superior, sin volver a Discord (o usa /key otra vez). Solo funciona en el equipo donde la activaste.
