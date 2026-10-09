@@ -2,6 +2,17 @@
 
 Cada versión también aparece en [Releases](../../releases) con su ejecutable y su huella SHA-256.
 
+## v14.0.0
+
+- Key gratis de 24 horas y renovable: cuando vence, pulsa «Renovar 24 h» al abrir ROSSIUM o en la barra superior, sin volver a Discord (o usa /key otra vez). Solo funciona en el equipo donde la activaste.
+- Nuevo estilo «Negro neón»: negro y blanco con líneas de luz que recorren las tarjetas principales, brillo en el logotipo y los botones, y fondo con rejilla. El estilo azul sigue disponible en Ajustes → Estilo «Clásico», con colores neón blanco, cian o rojo.
+- Pantalla de carga animada con los pasos reales del arranque (licencia, equipo, interfaz) y aparición suave de la ventana.
+- Guía de optimización: eliges para qué usas el PC (Juegos, Competitivo, Streaming, Trabajo o Portátil) y ROSSIUM revisa tu equipo y todos los ajustes. Te dice qué ya tienes, qué conviene aplicar, qué conviene desactivar porque no le sirve a tu equipo y qué no se recomienda, siempre con el motivo. Aplica con el flujo normal: punto de restauración, modo «probar» e historial con Deshacer.
+- 59 ajustes nuevos (178 en total): privacidad (escritura, idiomas, archivos recientes, sugerencias, telemetría de Edge, Office y NVIDIA), apagado más rápido, optimizaciones para juegos en ventana de Windows 11, prioridad de disco para juegos, sin reinicios sorpresa de Windows Update, protección contra aplicaciones no deseadas y 7 servicios poco usados. Todos reversibles.
+- Como el preajuste «Óptimo» incluye los ajustes nuevos, el porcentaje de optimización puede bajar al actualizar. La Guía lo vuelve a subir en un paso.
+- Activación más cómoda: detecta la key en el portapapeles, botón «Pegar», guiones automáticos, pasos visibles (equipo, servidor, guardado) y enlace directo para pedir la key gratis.
+- Centro de juegos: perfil por juego con modo, prioridad y plan de energía, ruta exacta del .exe, sesión en vivo, recomendaciones según tu equipo y Modo Juego que cierra los programas con el cierre normal (como la X). Pausar la detección restaura todo al momento.
+
 ## v13.0.0
 
 - Modo «probar»: aplica los cambios unos minutos; si no pulsas «Mantener» se revierten solos (también si cierras ROSSIUM).

@@ -15,7 +15,7 @@
 
 1. Entra en **[Releases → última versión](https://github.com/KendoXternal/rossium-optimizer/releases/latest)**.
 2. Descarga **`RossiumOptimizer.exe`**.
-3. Ábrelo y activa tu licencia (consigue una key en **[rossium.xyz](https://rossium.xyz/key-gratis)** o en el **[Discord](https://discord.gg/uREQ5PmgBr)**).
+3. Ábrelo y activa tu licencia. **Key gratis de 24 horas** con `/key` en el **[Discord](https://discord.gg/uREQ5PmgBr)** (guía en **[rossium.xyz/key-gratis](https://rossium.xyz/key-gratis)**). Cuando vence, la renuevas desde el propio programa con «Renovar 24 h».
 
 También puedes descargarlo desde la web oficial: **https://rossium.xyz/key-gratis**. Es el mismo archivo.
 
@@ -25,13 +25,18 @@ También puedes descargarlo desde la web oficial: **https://rossium.xyz/key-grat
 
 ## ✨ Qué incluye
 
+### Novedades de la versión 14
+- **Estilo «Negro neón»**: negro y blanco con líneas de luz animadas y pantalla de carga nueva (el estilo azul sigue disponible).
+- **Guía de optimización**: eliges para qué usas el PC y te dice qué ya tienes, qué conviene aplicar y qué conviene desactivar, con el motivo.
+- **Key gratis de 24 h renovable** desde el programa.
+
 ### Inicio
 - **Porcentaje de optimización real** de tu equipo: sube a medida que optimizas y baja si reviertes.
 - Tarjetas en vivo de **CPU, GPU (NVIDIA, AMD e Intel), RAM, discos e Internet**.
 - Tiempo restante de tu licencia siempre visible.
 
 ### Optimizar
-- **119 ajustes** por categorías (rendimiento, juegos, privacidad y telemetría, Copilot/Recall, energía, personalización, seguridad…).
+- **178 ajustes** por categorías (rendimiento, juegos, privacidad y telemetría, Copilot/Recall, energía, personalización, seguridad…).
 - **Preajustes** Predeterminado / Óptimo / Máximo que se adaptan a tu equipo: excluyen lo que perjudica a portátiles, discos HDD o equipos con poca RAM.
 - Cada ajuste explica **qué hace**, un **consejo** y **qué deja de funcionar**, si aplica.
 - **Modo «probar»**: aplicas los cambios unos minutos y, si no pulsas «Mantener», **se revierten solos**.
@@ -93,6 +98,8 @@ ROSSIUM avisa solo cuando hay una versión nueva, muestra sus cambios y descarga
 **¿Puede dañar mi PC?** Los preajustes Predeterminado y Óptimo solo incluyen cambios seguros y reversibles. Las funciones avanzadas te avisan antes de activarse. Aun así, ningún optimizador garantiza un número concreto de FPS: mide antes y después con la página de Pruebas.
 
 **¿Cómo deshago un cambio?** En *Copias y restauración* tienes el historial con «Deshacer» por bloque y «Restaurar todo».
+
+**¿Cuánto dura la key gratis?** 24 horas. Cuando vence, pulsa «Renovar 24 h» en el programa (o usa `/key` otra vez en Discord). Funciona en el equipo donde la activaste.
 
 **La key no se activa.** Comprueba tu conexión y que la fecha y hora de Windows estén en automático. Si sigue sin activarse, abre un ticket en el **[Discord](https://discord.gg/uREQ5PmgBr)**.
 
