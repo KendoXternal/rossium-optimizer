@@ -31,10 +31,11 @@ La aplicación actual está desarrollada en **C#** para Windows.
 
 ## Sobre este repositorio
 
-Esta página describe el producto. **No publica el código fuente ni archivos internos del programa.** La disponibilidad y las funciones concretas dependen de la versión instalada.
+Esta página describe el producto. **El código fuente no forma parte de este repositorio.** La disponibilidad y las funciones concretas dependen de la versión instalada.
 
 Para información y soporte, visita el [Discord de ROSSIUM](https://discord.gg/rossium).
 
 ---
 
 ROSSIUM Optimizer es una herramienta de configuración y diagnóstico. Los cambios y resultados varían según cada PC.
+
